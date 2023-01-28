@@ -1,0 +1,88 @@
+{
+    "cars": [
+        {
+            "car_id": 146783250,
+            "brand": "Mercedes-Benz",
+            "model": "S-Class",
+            "year": 2020,
+            "color": "Silver",
+            "price": 100000,
+            "time_to_100": 4.5,
+            "max_speed": 250,
+            "description": "The Mercedes-Benz S-Class is a luxury car with advanced technology and a comfortable ride.",
+            "quantity": 10
+        },
+        {
+            "car_id": 123456789,
+            "brand": "BMW",
+            "model": "M5",
+            "year": 2021,
+            "color": "Blue",
+            "price": 90000,
+            "time_to_100": 3.4,
+            "max_speed": 305,
+            "description": "The BMW M5 is a high-performance sports sedan with a powerful engine and agile handling.",
+            "quantity": 5
+        },
+        {
+            "car_id": 901234567,
+            "brand": "Audi",
+            "model": "R8",
+            "year": 2019,
+            "color": "Red",
+            "price": 120000,
+            "time_to_100": 3.2,
+            "max_speed": 330,
+            "description": "The Audi R8 is a supercar with a sleek design and exceptional performance.",
+            "quantity": 2
+        },
+        {
+            "car_id": 789654120,
+            "brand": "Porsche",
+            "model": "911",
+            "year": 2022,
+            "color": "Black",
+            "price": 140000,
+            "time_to_100": 3.5,
+            "max_speed": 340,
+            "description": "The Porsche 911 is a classic sports car with a powerful engine and precise handling.",
+            "quantity": 3
+        },
+        {
+            "car_id": 234567890,
+            "brand": "Lamborghini",
+            "model": "Aventador",
+            "year": 2018,
+            "color": "Yellow",
+            "price": 200000,
+            "time_to_100": 2.5,
+            "max_speed": 350,
+            "description": "The Lamborghini Aventador is a supercar with a bold design and extreme performance.",
+            "quantity": 5
+        },
+        {
+            "car_id": 654321987,
+            "brand": "Bentley",
+            "model": "Mulsanne",
+            "year": 2015,
+            "color": "Green",
+            "price": 150000,
+            "time_to_100": 5.1,
+            "max_speed": 280,
+            "description": "The Bentley Mulsanne is a luxury sedan that offers a smooth and comfortable ride, advanced technology, and a sleek design.",
+            "quantity": 2
+        },
+        {
+            "car_id": 345678901,
+            "brand": "Porsche",
+            "model": "Panamera",
+            "year": 2016,
+            "color": "Yellow",
+            "price": 120000,
+            "time_to_100": 3.4,
+            "max_speed": 300,
+            "description": "The Porsche Panamera is a luxury sports sedan that offers performance, advanced technology, and a sleek design.",
+            "quantity": 1
+        }
+    ]
+}
